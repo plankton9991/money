@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  margin-top: 100px;
+}
+.main-header {
+  font-family: 'Dosis';
+  font-weight: 600;
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+.subtitle {
+  font-family: 'Dosis';
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+  color: rgb(73, 73, 73);
+}
+.path {
+  height: 100px;
+  margin-top: 150px;
+  border: 1px solid rgb(88, 88, 88);
+}
+.percent {
+  margin-top: 32px;
+  font-family: 'Dosis';
+  font-weight: 600;
+  font-size: 1.5rem;
+  position: absolute;
+  left: 950px;
+  top: 380px;
+}
+.green {
+  background-color: green;
+  height: 100px;
+  /* change line here */
+  width: 0%;
+  /* change line here */
+}
+.results {
+  font-family: 'Dosis';
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+  margin-top: 50px;
+  color: rgb(36, 36, 36);
+}
